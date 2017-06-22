@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Administrator\.android\build-cache\78135321edff74bce9734a7436ae355865380a84\output\assets"/></dataSet><dataSet config="main"><source path="D:\workspace\WeChat For Android Studio\app\src\main\assets"/><source path="D:\workspace\WeChat For Android Studio\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\workspace\WeChat For Android Studio\app\src\debug\assets"/></dataSet></merger>
